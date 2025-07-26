@@ -7,22 +7,21 @@
 - I LOVE WEB
 
 ### Languages and Tools
-Python
-Selenium
-Django
-Drf
-SQL
-Postgresql
-HTML
-CSS
-JavaScript
-Git
-Linux
-SOLID
-KISS
-DRY
+- Python
+- Selenium
+- Django
+- Drf
+- SQL
+- Postgresql
+- HTML
+- CSS
+- JavaScript
+- Git
+- Linux
+- SOLID
+- KISS
+- DRY
 
 ### Follow me
 [VK](https://m.vk.com/shulmen)
-[Telegram](@Maximfast2007)
 [Stepik](https://stepik.org/users/598386834/profile)
