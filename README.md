@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Maxim</h1>
 
-<!--
-**maximshaulskiy/maximshaulskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I'm BackEnd Developer
+- I like programming on stepik
+- I like learning
+- I LOVE WEB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+Python
+Selenium
+Django
+Drf
+SQL
+Postgresql
+HTML
+CSS
+JavaScript
+Git
+Linux
+SOLID
+KISS
+DRY
+
+### Follow me
+[VK](https://m.vk.com/shulmen)
+[Telegram](@Maximfast2007)
+[Stepik](https://stepik.org/users/598386834/profile)
